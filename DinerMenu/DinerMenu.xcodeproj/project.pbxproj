@@ -16,6 +16,8 @@
 		3B9E17AF29F5758700E1F057 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9E17AB29F5758700E1F057 /* Menu.swift */; };
 		3B9E17B029F5758700E1F057 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9E17AC29F5758700E1F057 /* Order.swift */; };
 		3B9E17B129F5758700E1F057 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9E17AD29F5758700E1F057 /* Helper.swift */; };
+		3B9E1E2229F5C1FA001CFA85 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9E1E2129F5C1F9001CFA85 /* ItemDetail.swift */; };
+		3B9E1E2429F5CC8E001CFA85 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9E1E2329F5CC8E001CFA85 /* OrderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		3B9E17AB29F5758700E1F057 /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		3B9E17AC29F5758700E1F057 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		3B9E17AD29F5758700E1F057 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		3B9E1E2129F5C1F9001CFA85 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		3B9E1E2329F5CC8E001CFA85 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 			children = (
 				3B9E179C29F56E7F00E1F057 /* DinerMenuApp.swift */,
 				3B9E179E29F56E7F00E1F057 /* ContentView.swift */,
+				3B9E1E2129F5C1F9001CFA85 /* ItemDetail.swift */,
+				3B9E1E2329F5CC8E001CFA85 /* OrderView.swift */,
 				3B58193729F58605009DAA8C /* ItemRow.swift */,
 				3B9E17AA29F5758700E1F057 /* menu.json */,
 				3B9E17AB29F5758700E1F057 /* Menu.swift */,
@@ -153,6 +159,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B9E1E2229F5C1FA001CFA85 /* ItemDetail.swift in Sources */,
+				3B9E1E2429F5CC8E001CFA85 /* OrderView.swift in Sources */,
 				3B9E17AF29F5758700E1F057 /* Menu.swift in Sources */,
 				3B9E179F29F56E7F00E1F057 /* ContentView.swift in Sources */,
 				3B9E17B129F5758700E1F057 /* Helper.swift in Sources */,
