@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3B3D81F729F6BE6D00320EF4 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B3D81F629F6BE6D00320EF4 /* MainView.swift */; };
+		3B3D81F929F6C14E00320EF4 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B3D81F829F6C14E00320EF4 /* CheckoutView.swift */; };
 		3B58193829F58605009DAA8C /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B58193729F58605009DAA8C /* ItemRow.swift */; };
 		3B9E179D29F56E7F00E1F057 /* DinerMenuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9E179C29F56E7F00E1F057 /* DinerMenuApp.swift */; };
 		3B9E179F29F56E7F00E1F057 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9E179E29F56E7F00E1F057 /* ContentView.swift */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		3B3D81F629F6BE6D00320EF4 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		3B3D81F829F6C14E00320EF4 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		3B58193729F58605009DAA8C /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		3B9E179929F56E7F00E1F057 /* DinerMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DinerMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B9E179C29F56E7F00E1F057 /* DinerMenuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DinerMenuApp.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				3B3D81F629F6BE6D00320EF4 /* MainView.swift */,
 				3B9E179E29F56E7F00E1F057 /* ContentView.swift */,
 				3B9E1E2129F5C1F9001CFA85 /* ItemDetail.swift */,
+				3B3D81F829F6C14E00320EF4 /* CheckoutView.swift */,
 				3B9E1E2329F5CC8E001CFA85 /* OrderView.swift */,
 				3B58193729F58605009DAA8C /* ItemRow.swift */,
 				3B9E17AA29F5758700E1F057 /* menu.json */,
@@ -164,6 +167,7 @@
 			files = (
 				3B9E1E2229F5C1FA001CFA85 /* ItemDetail.swift in Sources */,
 				3B3D81F729F6BE6D00320EF4 /* MainView.swift in Sources */,
+				3B3D81F929F6C14E00320EF4 /* CheckoutView.swift in Sources */,
 				3B9E1E2429F5CC8E001CFA85 /* OrderView.swift in Sources */,
 				3B9E17AF29F5758700E1F057 /* Menu.swift in Sources */,
 				3B9E179F29F56E7F00E1F057 /* ContentView.swift in Sources */,
