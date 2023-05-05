@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		3B7716612A0584D200B28613 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7716602A0584D200B28613 /* Order.swift */; };
+		3B7716632A05947B00B28613 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7716622A05947B00B28613 /* AddressView.swift */; };
+		3B7716652A05980F00B28613 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7716642A05980F00B28613 /* CheckoutView.swift */; };
 		3B7E50172A054D01000546C9 /* CupcakeDeliveryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7E50162A054D01000546C9 /* CupcakeDeliveryApp.swift */; };
 		3B7E50192A054D01000546C9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7E50182A054D01000546C9 /* ContentView.swift */; };
 		3B7E501B2A054D02000546C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B7E501A2A054D02000546C9 /* Assets.xcassets */; };
@@ -16,6 +18,8 @@
 
 /* Begin PBXFileReference section */
 		3B7716602A0584D200B28613 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		3B7716622A05947B00B28613 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		3B7716642A05980F00B28613 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		3B7E50132A054D01000546C9 /* CupcakeDelivery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeDelivery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B7E50162A054D01000546C9 /* CupcakeDeliveryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CupcakeDeliveryApp.swift; sourceTree = "<group>"; };
 		3B7E50182A054D01000546C9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +59,8 @@
 			children = (
 				3B7E50162A054D01000546C9 /* CupcakeDeliveryApp.swift */,
 				3B7E50182A054D01000546C9 /* ContentView.swift */,
+				3B7716622A05947B00B28613 /* AddressView.swift */,
+				3B7716642A05980F00B28613 /* CheckoutView.swift */,
 				3B7716602A0584D200B28613 /* Order.swift */,
 				3B7E501A2A054D02000546C9 /* Assets.xcassets */,
 				3B7E501C2A054D02000546C9 /* Preview Content */,
@@ -141,6 +147,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B7716612A0584D200B28613 /* Order.swift in Sources */,
+				3B7716632A05947B00B28613 /* AddressView.swift in Sources */,
+				3B7716652A05980F00B28613 /* CheckoutView.swift in Sources */,
 				3B7E50192A054D01000546C9 /* ContentView.swift in Sources */,
 				3B7E50172A054D01000546C9 /* CupcakeDeliveryApp.swift in Sources */,
 			);
