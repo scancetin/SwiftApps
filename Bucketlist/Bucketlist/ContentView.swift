@@ -24,6 +24,10 @@ struct ContentView: View {
                             .frame(width: 24, height: 24)
                             .background(.white)
                             .clipShape(Circle())
+                            .onTapGesture {
+                                print("marker function")
+                                location
+                            }
                             
                         Text(location.name)
                     }
